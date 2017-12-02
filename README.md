@@ -13,6 +13,7 @@
 
 ##### Thresholding
 
-https://github.com/arnab1896/image_proc/blob/master/threshold/thre2.png
-
 ![alt text](https://github.com/arnab1896/image_proc/blob/master/threshold/thre3.png "Thresholding")
+
+
+Credits to this guy for helping out --> *AKASH BHAGAT*! :D
